@@ -138,4 +138,4 @@ Customization Aids: GUI tools for direct texture painting, constraints-based edi
 
 Continued innovation in AI and computing ensures the platform remains at the cutting-edge of visual content creation through photorealistic editing.
 
-You can visit https://www.replaceanything.today/ to try out the powerful image editing capabilities of Replace Anything for yourself!
+You can visit https://www.replaceanything.today/  to try out the powerful image editing capabilities of Replace Anything for yourself!
